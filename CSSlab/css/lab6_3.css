@@ -1,0 +1,40 @@
+body{
+	font:12px Arial;
+	line-height: 2em;
+	color: grey;
+}
+a{
+	color:#727272 ;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+.lanmu{
+	color:white;
+	font-weight: bold;
+	font-size: 14px;
+
+}
+.lanmu:hover{
+	color: #b9f605;
+	text-decoration: none;
+
+
+}
+
+p{
+	text-indent: 2em;
+}
+h3{
+	font:20px '微软雅黑';
+	color: #686868;
+}
+.erji{
+	font: normal 12px Arial;
+	color: #a9a8a8;
+}
+.shangxia{
+	color:#22a3d3;
+	font-weight: normal;
+}

@@ -1,0 +1,51 @@
+body{
+	font:12px Arial;
+	line-height: 2em;
+	color: grey;
+
+}
+a{
+	color:#727272 ;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+.lanmu{
+	color:white;
+	font-weight: bold;
+	font-size: 14px;
+
+}
+.lanmu:hover{
+	color: #b9f605;
+	text-decoration: none;
+
+
+}
+.news{
+	font:bold 16px '微软雅黑';
+	color: #65a7d0;
+}
+ul{
+	list-style-type: none;
+
+}
+.list{
+	list-style-type: disc;
+}
+.foot{
+	background-image: url(../image/foot_bg.gif);
+	background-repeat: repeat-x;
+	
+	color: white;
+	width: 100%;
+}
+.line{
+	background-image: url(../image/line.gif);
+	background-repeat: repeat;
+}
+.b2{
+	background-image: url(../image/pic_foot_bg.gif);
+	line-height: 40px;
+}
